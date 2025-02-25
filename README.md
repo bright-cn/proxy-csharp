@@ -1,6 +1,6 @@
 [![Promo](https://github.com/bright-cn/Google-News-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner%20CN.png?md5=105367-daeb786e)](https://www.bright.cn/?promo=github15) 
 
-本项目演示了如何在 Visual Studio 和 .NET 7 [中使用 C#]（https://www.bright.cn/blog/how-tos/web-scraping-with-c-sharp）配置代理服务器进行网页抓取，并使用 HtmlAgilityPack 进行 HTML 解析。通过使用代理服务器的 IP 地址，代理可以在网页抓取时保护您的数字身份，从而绕过 IP 封禁和地域限制。
+本项目演示了如何在 Visual Studio 和 .NET 7 [中使用 C#](https://www.bright.cn/blog/how-tos/web-scraping-with-c-sharp)配置代理服务器进行网页抓取，并使用 HtmlAgilityPack 进行 HTML 解析。通过使用代理服务器的 IP 地址，代理可以在网页抓取时保护您的数字身份，从而绕过 IP 封禁和地域限制。
 ### 前置条件
 -   [Visual Studio 2022](https://visualstudio.microsoft.com/vs/) 或 [Visual Studio Code](https://code.visualstudio.com/)
 -   [.NET 7 或更高版本](https://dotnet.microsoft.com/en-us/download)
